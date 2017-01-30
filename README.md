@@ -10,4 +10,4 @@ AR01e
 
 This hardware design is being released under the guidelines of the Open Source Hardware Association and developed under the guidelines of the association's definiton and guidelines for open source hardware. for more information go to http://www.oshwa.org/definition/
 
-<img src"http://www.oshwa.org/wp-content/uploads/2014/03/oshw-logo-100-px.png" alt="Logo">
+<img src="http://www.oshwa.org/wp-content/uploads/2014/03/oshw-logo-100-px.png" alt="Logo">
