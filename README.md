@@ -9,4 +9,5 @@ AR01e
     This repository (will) hold all the electronic files needed to build this structure or have this structure fabricated. These include blueprints with construction details and specifications. A build sheet will also be furnished with materials needed.
 
 This hardware design is being released under the guidelines of the Open Source Hardware Association and developed under the guidelines of the association's definiton and guidelines for open source hardware. for more information go to http://www.oshwa.org/definition/
+
 http://www.oshwa.org/wp-content/uploads/2014/03/oshw-logo-100-px.png
