@@ -6,4 +6,4 @@ AR01e
     The AR01e is a racing simulation chassis. It is a welded light steel structure used to build a racing simulator. It is desdigned to replicate the full sized driver's compartment in a race car. It has mounts for a computer wheel controller and suitable full sized single seat car seat (bucket style).
 
   What is in this repository?
-    This repository (will) hold all the electronic files needed to build this structure or have this structure fabricated by a shop. These include blueprints with construction details and specifications. A build sheet will also be furnished with materials needed.
+    This repository (will) hold all the electronic files needed to build this structure or have this structure fabricated. These include blueprints with construction details and specifications. A build sheet will also be furnished with materials needed.
