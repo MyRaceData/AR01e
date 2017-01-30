@@ -8,4 +8,4 @@ but not limited to, reproduction, storage, manipulation, digital or otherwise, i
 proper credit to the above named photographer
 Please note: These images are not royalty free. Legal action could be taken against illegal usage by the photographer.
 Please respect copyright laws. To inquire about the use of any of these images, please contact me via this
-website.<a href="myracedata.com">http://myracedata.com</a>
+website. <a href="myracedata.com">http://myracedata.com</a>
