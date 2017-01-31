@@ -1,0 +1,70 @@
+[extract from team document deemed appropriate for general release]
+This document is copyrighted and may not be used without consent by the author
+
+June 2015
+Brief:
+Possible use of modern gaming/entertainment software for research and development. 
+Abstract
+Modern racing simulation software has built a niche market in the gaming entertainment segment and with the advent of affordable fast hardware, has become sophisticated enough to closely mimic real world driving environments with physics models easily capable of reproducing all important variations of real world conditions such as vehicle dynamics, tire wear and weather. The software supports telemetry, readily available motion simulation hardware and has a strong supporting community of users including many real life professionals. The use of these entertainment software titles for creating a driving simulator is untapped technology any amateur level team could afford. Benefits include new track orientation and familiarization with race engineering software.
+
+Introduction
+After a 20 year hiatus from computer 'racing games' I decided the technology had matured enough to warrant investigating the use of modern racing sims for driver development and perhaps eventual real life racing applications. I set about creating a baseline from where this experiment could be judged for it's usefulness and applicability. 
+
+First order was setting some short term goals and also consideration of resources and potential of future applications. I set the following short term goals:
+1. evaluate potential as a driver training tool and first time track orientation aid
+2. explore modern racing simulation software for potential real life applications
+3. weigh resource expenditure against possible future benefit
+
+I began with an investigation of the suitability of readily available modern racing software titles in the entertainment/gaming market. Some titles were based on sophisticated physics models and had tracks and cars based on reality. I considered software based on real cars and real tracks important for real world application. A short list of possible candidates quickly immerged.
+
+Software criterion 
+ The software must be a PC application so as to run on typical available hardware. The software must be realistic at minimum and extra points for mimicking real world cars  and tracks similar to our vehicles and venues.
+Typical titles are both stand alone one time purchase applications and at least one was a well developed internet subscription service. Both types usually featured online multi-player modes and the internet subscription service was structured on the premise of competition among other live participants in real time.
+
+The online subscription format seemed interesting and upon further investigation seemed a possibly good choice for a number of reasons. The format is based on real life racing. Drivers practice, qualify and race in a virtual environment which closely mimics real life driving at real world tracks. The software is based on actual physics, is in constant development and has participation with manufacturers and large well know racing teams. The car choices also included a vast array of racing vehicles including models similar in performance to the team's real race cars.
+
+Hardware criterion
+With some idea of what was available in the software market, I turned to consideration of minimal requirements for setting up a test. A test would require a PC to run the game, a large display, a game controller (steering wheel/pedal controller) and the software. The only other requirement would be a space to set the controller up and some kind of heavy desk or platform to which to mount the controller.
+I knew from past experience, the driver can get to thrashing the controller physically and it needed to be attached to something solid that could hold up. Game controllers ranged in price from economic models under $100 to high end stuff in the thousands. Consideration must be given to the durability of the controller and long term replacement costs.
+System requirements for candidate software titles indicated any modern PC was adequate but higher end graphics might be a necessity for realistic performance. A custom built workstation would greatly increase test costs as would purchasing a large high resolution display.
+The software is relatively inexpensive. The online subscription option would constitute an ongoing cost. The online aspect may rely on a high speed connection to work well.
+
+First Test
+I had a somewhat modern laptop PC running Win7 that could be used for initial tests and to judge as to whether a custom built PC would be needed. A temporarily requisitioned 22" (diag) television could be used for the display. The game controller had to be ordered as none were available locally. Software was available locally and the subscription option was available online.
+Game controllers sell readily in used condition on the internet and a moderately priced off the shelf controller could probably be resold if the trial produced no useful gains. After some investigation a brand new Logitech G27 was ordered. It features forced feedback, an option unavailable when I last used this type of controller. 
+With the game controller ordered I set about choosing software. Since the online subscription included many of our real world tracks, [edit: the team is based in the south eastern United States]could be tried for short periods and offered live competition, I paid a short subscription fee and began to explore that option for suitability.
+By the time the controller arrived, I had explored the online subscription software and was impressed. It included official support for one real world telemetry software and another was unofficially also well supported. The environment was very realistic in it's portrayal of a real life driving experience
+Wheel Controller
+As soon as I unpacked the wheel controller I remembered my last experience with such a device. Twenty years ago the software was sophisticated enough to immerse the user to the point of extreme realism. As such, the controller is physically thrashed about as the driver struggles to maintain control of the car and needs to be sturdy and well mounted. The controller was clamped to a heavy desk and I began to drive the simulation.
+The new controller also included the force feed back feature which used a relatively  powerful electric motor to impart twisting forces on the wheel. This made it's mounting even more critical as the feedback is proving to be an important aspect of 'feeling' what the car is doing.
+The wheel then had fairly robust clamps and once clamped to a heavy desk could be driven with good control. The pedals also needed bolted to a piece of angle iron and wedged against the wall with a scrap of lumber to withstand being tromped on in the heat of battle. I set about judging the software for suitability.
+
+Testing
+I figured first hand knowledge of how a race car 'feels' and track knowledge would provide a baseline for judging realism. As I drove the sim, now with the wheel and pedals providing a familiar interface with what I was trying to do (drive a race car at speed) I was impressed with the realism. Different cars exhibit extremely different driving behaviors and set up changes seemed to make logical and meaningful difference in how each car handles.
+Of the available cars to drive, one was very similar to the car I am currently running. It was a Mazda MX5 cup car. Variations of this model run in my run groups and I am familiar with their performance and it is comparable with the power and handling of my own car. None of the free tracks I had any real life experience at so I purchased Sebring.
+Now driving a track I am intimately familiar with in a car with performance which should be very close to my current ride I could get some idea of how real this 'game' felt.
+
+Test results
+With regard to the software I was blown away. The tracks are laser scanned and every familiar landmark and every nuance of the track surface seemed dead on. The track itself lacks the new raised curb [at writing approximately 1 year old change] at the safety pin [turn 7] but had the raised wall between the front straight and hot pit row which was only added prior to the beginning of this season. [2015]
+Although a few corners gave me fits, overall I mastered driving the sim quickly and was within two seconds of the lap record for my class by the end of the second day. This had a lot to do with the fact that the car could be driven with absolute reckless abandon. This was driving the MX5 which should be technically slower then a car fully prepped for my class but I'm unsure how my car would stack up. [further discuss omitted] 
+
+Some things I was impressed with were just how close this was to my actual car. At places on the track various techniques I use worked in an expected manner as well as the replication of the actual driving environment from the moment you are strapped in. I was quickly convinced this set up had merit for, at minimum, new track orientation. If other tracks had the same level of realism, it would definitely work based on how Sebring looked to me in comparison to how it really is. Having never seen the place, I would have been able to learn the track, get my gear shift sequence down and have a relatively good idea of brake points, turn ins and apexes.
+
+Short Term Goals
+I address my original short term goals for the test as follows: 
+1. The test setup proved extremely realistic and has good potential for driver training and orientation
+2. The available software includes many real life cars and tracks which mimic almost any racing discipline. Telemetry use development is excellent and has excellent potential for research, training and eventual introduction into our current acquisition program
+3. As powerful hardware becomes ever less expensive, this should be a common development path for any racing endeavor.
+Bonus: The online multi player aspect has proven practically priceless. Any real world driver could benefit in terms of alertness and reactions.
+
+Next Phase
+With less then $300 of which at least half could have been recovered, I considered the test to be a success. I decide to move this project into a second phase of development. In considering my next step many avenues of development presented themselves. Also a couple shortcomings emerged.
+First a review of what was learned. The online subscription software proved adequate in everyway to warrant further use. The platform can be used for many software titles as well. An excellent unintended plus was actual racing with other live participates. In comparison to older games, live competitors turned out to be just as unpredictable as in real life and could be a huge driver learning tool.
+Also unexpected was the force feedback feature adding a whole additional realm of car control because of feedback thru the steering wheel. The market is awash with other gaming accessories to add additional tactical response such as transducers which shake the controls and motion rigs to move the driver.
+The wheel controller also created the biggest short coming of the test. Because of the nature of the activity, the controller needs to be anchored in some extremely sturdy manner. Also, I felt the orientation between the wheel, pedals and shifter needed to be somehow permanently secured and a proper seat needed to be used. I felt like anything less would severely impact realism.
+The laptop PC proved more then adequate to run the game and could play at full graphic detail but did lose some frame rate. Game play at lesser graphic detail restored full frame rate and was still quite good. The nature of the high speed action  requires a decent frame rate to seem real. [further discussion omitted]
+
+Results
+This program has show enormous potential for many applications. Currently available 'gaming' software in the 'hardcore racing' genre has proven surprisingly sophisticated. Many titles are based on real world physics and their replication of the real world driving environment is shockingly realistic. Many titles also output real-time telemetry which is identical to real world parameters already being monitored. The greatest potential however may lie in the online multi player aspect as live competitors offer unrivaled unpredictability and the software leaves the realm of a game and becomes a human competition.  
+Conclusions
+A way to anchor the wheel controller should be the next focus of the test. Many 'gaming chairs' or driving platforms are available, some relatively inexpensive, that are specifically designed to hold wheel controllers. The cost of such equipment strong enough to with stand real world use seem inferior to an in house built solution. 
