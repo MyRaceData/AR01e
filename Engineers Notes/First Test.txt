@@ -68,3 +68,6 @@ Results
 This program has show enormous potential for many applications. Currently available 'gaming' software in the 'hardcore racing' genre has proven surprisingly sophisticated. Many titles are based on real world physics and their replication of the real world driving environment is shockingly realistic. Many titles also output real-time telemetry which is identical to real world parameters already being monitored. The greatest potential however may lie in the online multi player aspect as live competitors offer unrivaled unpredictability and the software leaves the realm of a game and becomes a human competition.  
 Conclusions
 A way to anchor the wheel controller should be the next focus of the test. Many 'gaming chairs' or driving platforms are available, some relatively inexpensive, that are specifically designed to hold wheel controllers. The cost of such equipment strong enough to with stand real world use seem inferior to an in house built solution. 
+
+copyright Andrew Rowe 2017
+All rights reserved
